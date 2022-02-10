@@ -28,3 +28,4 @@ This simple full-stack project consists of three parts: Springboot app (backend_
   - Copy the **contents** of the `image_validation_lib-0.0.1.tgz` to the `validator` folder of the `web_app` module
   - In the terminal in the `web_app` folder, run `npm install.`
   - run `npm install validator`.
+  - run `npm start`
