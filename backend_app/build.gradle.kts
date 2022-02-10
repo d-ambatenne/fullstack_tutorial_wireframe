@@ -26,7 +26,7 @@ dependencies {
     implementation("aws.sdk.kotlin:s3:0.9.1-alpha")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor:1.6.0")
-    implementation("com.ambatenne:ImageValidationLib-jvm:0.0.1")
+    implementation("com.ambatenne:image_validation_lib-jvm:0.0.1")
     developmentOnly("org.springframework.boot:spring-boot-devtools:2.6.2")
     implementation("org.postgresql:postgresql:42.3.1")
     testImplementation("org.springframework.boot:spring-boot-starter-test:2.6.2")
